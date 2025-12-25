@@ -1,0 +1,427 @@
+{
+    "historical_events": {
+      "events": [
+        {
+          "year": 180,
+          "name": "Death of Marcus Aurelius",
+          "type_ratings": [6, 6, 7, 8, 3, 7],
+          "location": {
+            "description": "Rome / Italy",
+            "centrality": 0
+          },
+          "duration_score": 1,
+          "geographic_scope": 8,
+          "impact": 3,
+          "impact_description": "The stable transition of power was disrupted, opening a new phase of imperial politics.",
+          "impact_on_following": "Prepared the ground for Commodus’ accession and later systemic problems."
+        },
+        {
+          "year": "180–192",
+          "name": "Commodus’ Reign and Assassination",
+          "type_ratings": [4, 2, 6, 4, 2, 3],
+          "location": {
+            "description": "Rome",
+            "centrality": 0
+          },
+          "duration_score": 6,
+          "geographic_scope": 7,
+          "impact": -6,
+          "impact_description": "Severely damaged political trust and elite relations.",
+          "impact_on_following": "Created the power vacuum that exploded in 193."
+        },
+        {
+          "year": 193,
+          "name": "Murder of Pertinax, Auction of the Throne, and the Year of the Five Emperors",
+          "type_ratings": [5, 1, 4, 5, 2, 2],
+          "location": {
+            "description": "Rome",
+            "centrality": 0
+          },
+          "duration_score": 2,
+          "geographic_scope": 8,
+          "impact": -8,
+          "impact_description": "Extreme political instability and loss of legitimacy.",
+          "impact_on_following": "Enabled the rise of Septimius Severus and the Severan dynasty."
+        },
+        {
+          "year": "193–211",
+          "name": "Founding of the Severan Dynasty",
+          "type_ratings": [6, 6, 6, 6, 3, 6],
+          "location": {
+            "description": "Rome (imperial center)",
+            "centrality": 1
+          },
+          "duration_score": 8,
+          "geographic_scope": 9,
+          "impact": 2,
+          "impact_description": "Short-term stabilization combined with increased militarization.",
+          "impact_on_following": "Raised the political power of the army in imperial succession."
+        },
+        {
+          "year": 211,
+          "name": "Murder of Geta and Caracalla’s Sole Rule",
+          "type_ratings": [6, 2, 5, 5, 2, 2],
+          "location": {
+            "description": "Rome",
+            "centrality": 0
+          },
+          "duration_score": 1,
+          "geographic_scope": 7,
+          "impact": -4,
+          "impact_description": "Strengthened autocracy and deepened elite fear.",
+          "impact_on_following": "Accelerated fiscal strain and military favoritism."
+        },
+        {
+          "year": 212,
+          "name": "Constitutio Antoniniana (Edict of Caracalla)",
+          "type_ratings": [3, 5, 6, 6, 2, 5],
+          "location": {
+            "description": "Empire-wide",
+            "centrality": 5
+          },
+          "duration_score": 1,
+          "geographic_scope": 10,
+          "impact": 4,
+          "impact_description": "Fundamental transformation of citizenship, law, and taxation.",
+          "impact_on_following": "Reshaped fiscal and military recruitment structures."
+        },
+        {
+          "year": 217,
+          "name": "Assassination of Caracalla and Short Reign of Macrinus",
+          "type_ratings": [5, 2, 4, 4, 2, 2],
+          "location": {
+            "description": "Antioch / Eastern front",
+            "centrality": 8
+          },
+          "duration_score": 2,
+          "geographic_scope": 6,
+          "impact": -3,
+          "impact_description": "Continued cycle of instability and short-lived emperors.",
+          "impact_on_following": "Reinforced patterns of rapid regime turnover."
+        },
+        {
+          "year": "218–222",
+          "name": "Reign of Elagabalus and Cultural–Religious Conflict",
+          "type_ratings": [4, 2, 4, 7, 6, 2],
+          "location": {
+            "description": "Rome with Eastern religious influence",
+            "centrality": 2
+          },
+          "duration_score": 4,
+          "geographic_scope": 6,
+          "impact": -2,
+          "impact_description": "Heightened cultural and religious tension.",
+          "impact_on_following": "Provoked strong backlash from Senate and army."
+        },
+        {
+          "year": "222–235",
+          "name": "Assassination of Severus Alexander and Onset of Crisis",
+          "type_ratings": [7, 3, 4, 6, 2, 3],
+          "location": {
+            "description": "Northern frontier military camps",
+            "centrality": 7
+          },
+          "duration_score": 13,
+          "geographic_scope": 9,
+          "impact": -7,
+          "impact_description": "Direct trigger of the Third-Century Crisis.",
+          "impact_on_following": "Marked the start of prolonged systemic instability."
+        },
+        {
+          "year": "c.235",
+          "name": "Beginning of the Crisis of the Third Century",
+          "type_ratings": [9, 1, 2, 4, 3, 2],
+          "location": {
+            "description": "Multiple imperial fronts",
+            "centrality": 6
+          },
+          "duration_score": 10,
+          "geographic_scope": 10,
+          "impact": -10,
+          "impact_description": "Near-total breakdown of political, military, and economic stability.",
+          "impact_on_following": "Led to fragmentation, fiscal collapse, and militarized rule."
+        },
+        {
+          "year": "235–238",
+          "name": "Maximinus Thrax and Early Military Emperors",
+          "type_ratings": [10, 1, 3, 3, 2, 1],
+          "location": {
+            "description": "Frontier army camps",
+            "centrality": 9
+          },
+          "duration_score": 3,
+          "geographic_scope": 8,
+          "impact": -7,
+          "impact_description": "Confirmed the army as the decisive political force.",
+          "impact_on_following": "Institutionalized military dominance in succession."
+        },
+        {
+          "year": 238,
+          "name": "Year of the Six Emperors",
+          "type_ratings": [8, 1, 2, 3, 2, 1],
+          "location": {
+            "description": "Multiple regions",
+            "centrality": 5
+          },
+          "duration_score": 1,
+          "geographic_scope": 9,
+          "impact": -8,
+          "impact_description": "Extreme fragmentation of imperial authority.",
+          "impact_on_following": "Encouraged further regional power struggles."
+        },
+        {
+          "year": "238–244",
+          "name": "Reign of Gordian III and Eastern Campaigns",
+          "type_ratings": [7, 4, 3, 4, 3, 3],
+          "location": {
+            "description": "Eastern frontier / Persian front",
+            "centrality": 8
+          },
+          "duration_score": 6,
+          "geographic_scope": 7,
+          "impact": -1,
+          "impact_description": "Relative stability under continuous military pressure.",
+          "impact_on_following": "Maintained long-term eastern confrontation."
+        },
+        {
+          "year": "244–249",
+          "name": "Philip the Arab and Rome’s 1000th Anniversary",
+          "type_ratings": [4, 5, 5, 6, 2, 4],
+          "location": {
+            "description": "Rome",
+            "centrality": 0
+          },
+          "duration_score": 5,
+          "geographic_scope": 7,
+          "impact": 2,
+          "impact_description": "Symbolic cultural cohesion without structural reform.",
+          "impact_on_following": "Short-lived stability before renewed crisis."
+        },
+        {
+          "year": 251,
+          "name": "Battle of Abritus and Death of Decius",
+          "type_ratings": [10, 1, 2, 3, 4, 1],
+          "location": {
+            "description": "Danube / Balkan frontier",
+            "centrality": 8
+          },
+          "duration_score": 1,
+          "geographic_scope": 8,
+          "impact": -8,
+          "impact_description": "First Roman emperor killed in battle against barbarians.",
+          "impact_on_following": "Increased invasion pressure and instability."
+        },
+        {
+          "year": "c.249–270",
+          "name": "Cyprianic Plague",
+          "type_ratings": [6, 3, 2, 4, 5, 2],
+          "location": {
+            "description": "Empire-wide",
+            "centrality": 5
+          },
+          "duration_score": 8,
+          "geographic_scope": 10,
+          "impact": -7,
+          "impact_description": "Severe demographic, economic, and military losses.",
+          "impact_on_following": "Weakened imperial defense and production."
+        },
+        {
+          "year": 260,
+          "name": "Battle of Edessa and Capture of Valerian",
+          "type_ratings": [10, 1, 1, 2, 3, 1],
+          "location": {
+            "description": "Eastern frontier (Syria / Persia)",
+            "centrality": 9
+          },
+          "duration_score": 1,
+          "geographic_scope": 10,
+          "impact": -10,
+          "impact_description": "Unprecedented capture of a Roman emperor.",
+          "impact_on_following": "Accelerated imperial fragmentation in East and West."
+        },
+        {
+          "year": "260–274",
+          "name": "Gallic Empire under Postumus",
+          "type_ratings": [8, 1, 2, 4, 2, 1],
+          "location": {
+            "description": "Gaul and Britain",
+            "centrality": 10
+          },
+          "duration_score": 8,
+          "geographic_scope": 8,
+          "impact": -7,
+          "impact_description": "Collapse of central authority in the Western provinces.",
+          "impact_on_following": "Later reconquered by Aurelian."
+        },
+        {
+          "year": "260s–273",
+          "name": "Rise of Palmyra and Queen Zenobia",
+          "type_ratings": [9, 2, 3, 5, 3, 2],
+          "location": {
+            "description": "Syria and Eastern provinces",
+            "centrality": 9
+          },
+          "duration_score": 8,
+          "geographic_scope": 9,
+          "impact": -6,
+          "impact_description": "Eastern secession weakened imperial unity.",
+          "impact_on_following": "Provoked Aurelian’s reunification campaigns."
+        },
+        {
+          "year": "270–275",
+          "name": "Aurelian Reunifies the Empire",
+          "type_ratings": [6, 6, 5, 5, 2, 7],
+          "location": {
+            "description": "East and Gaul",
+            "centrality": 6
+          },
+          "duration_score": 5,
+          "geographic_scope": 10,
+          "impact": 7,
+          "impact_description": "Restored territorial unity and imperial authority.",
+          "impact_on_following": "Created conditions for later systemic reform."
+        },
+        {
+          "year": "c.286–296",
+          "name": "Carausius and Allectus Breakaway in Britain",
+          "type_ratings": [6, 2, 3, 3, 1, 2],
+          "location": {
+            "description": "Britain",
+            "centrality": 10
+          },
+          "duration_score": 10,
+          "geographic_scope": 6,
+          "impact": -4,
+          "impact_description": "Demonstrated vulnerability of distant provinces.",
+          "impact_on_following": "Encouraged tighter frontier control reforms."
+        },
+        {
+          "year": "284–305",
+          "name": "Accession of Diocletian and Imperial Reforms",
+          "type_ratings": [6, 7, 5, 5, 3, 9],
+          "location": {
+            "description": "Empire-wide reforms",
+            "centrality": 5
+          },
+          "duration_score": 10,
+          "geographic_scope": 10,
+          "impact": 8,
+          "impact_description": "Fundamental restructuring of governance and authority.",
+          "impact_on_following": "Founded the Late Roman imperial system."
+        },
+        {
+          "year": 301,
+          "name": "Diocletianic Fiscal Reforms and Edict on Maximum Prices",
+          "type_ratings": [4, 5, 6, 4, 2, 7],
+          "location": {
+            "description": "Empire-wide",
+            "centrality": 5
+          },
+          "duration_score": 5,
+          "geographic_scope": 10,
+          "impact": 1,
+          "impact_description": "Attempted stabilization of inflation with mixed results.",
+          "impact_on_following": "Shaped later fiscal and administrative norms."
+        },
+        {
+          "year": "Late 3rd Century",
+          "name": "Local Usurpations and Suppressions",
+          "type_ratings": [7, 2, 3, 3, 1, 2],
+          "location": {
+            "description": "Peripheral provinces",
+            "centrality": 9
+          },
+          "duration_score": 3,
+          "geographic_scope": 5,
+          "impact": -3,
+          "impact_description": "Accumulated regional instability.",
+          "impact_on_following": "Justified stronger military-administrative control."
+        },
+        {
+          "year": "303–311",
+          "name": "Diocletianic Persecution of Christians",
+          "type_ratings": [2, 4, 3, 3, 10, 2],
+          "location": {
+            "description": "Empire-wide",
+            "centrality": 5
+          },
+          "duration_score": 6,
+          "geographic_scope": 10,
+          "impact": -4,
+          "impact_description": "Heightened religious and social tensions.",
+          "impact_on_following": "Strengthened Christian identity before legalization."
+        },
+        {
+          "year": 306,
+          "name": "Death of Constantius Chlorus and Elevation of Constantine",
+          "type_ratings": [6, 3, 4, 5, 4, 3],
+          "location": {
+            "description": "Britain and Western provinces",
+            "centrality": 8
+          },
+          "duration_score": 4,
+          "geographic_scope": 9,
+          "impact": 2,
+          "impact_description": "Opened the Constantine era.",
+          "impact_on_following": "Triggered prolonged civil wars."
+        },
+        {
+          "year": 312,
+          "name": "Battle of the Milvian Bridge",
+          "type_ratings": [5, 6, 5, 6, 8, 6],
+          "location": {
+            "description": "Near Rome",
+            "centrality": 1
+          },
+          "duration_score": 8,
+          "geographic_scope": 10,
+          "impact": 9,
+          "impact_description": "Decisive victory reshaping imperial and religious policy.",
+          "impact_on_following": "Accelerated Christian legalization."
+        },
+        {
+          "year": 313,
+          "name": "Edict of Milan",
+          "type_ratings": [2, 6, 5, 6, 10, 6],
+          "location": {
+            "description": "Empire-wide",
+            "centrality": 5
+          },
+          "duration_score": 7,
+          "geographic_scope": 10,
+          "impact": 8,
+          "impact_description": "Legalization of Christianity.",
+          "impact_on_following": "Established foundations for state-supported religion."
+        },
+        {
+          "year": 324,
+          "name": "Constantine Defeats Licinius and Becomes Sole Emperor",
+          "type_ratings": [4, 8, 6, 7, 9, 8],
+          "location": {
+            "description": "Eastern provinces / Asia Minor",
+            "centrality": 6
+          },
+          "duration_score": 9,
+          "geographic_scope": 10,
+          "impact": 8,
+          "impact_description": "Completed imperial reunification.",
+          "impact_on_following": "Enabled Constantinople and church–state integration."
+        },
+        {
+          "year": "325–337",
+          "name": "Council of Nicaea, Constantinople Dedicated, and Death of Constantine",
+          "type_ratings": [2, 8, 6, 9, 10, 8],
+          "location": {
+            "description": "Nicaea and Constantinople",
+            "centrality": 7
+          },
+          "duration_score": 8,
+          "geographic_scope": 10,
+          "impact": 9,
+          "impact_description": "Defined Christian orthodoxy and shifted imperial center eastward.",
+          "impact_on_following": "Reshaped imperial succession and late Roman governance."
+        }
+      ]
+    }
+  }
+  

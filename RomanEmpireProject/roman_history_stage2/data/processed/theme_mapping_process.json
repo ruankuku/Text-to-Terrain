@@ -1,0 +1,111 @@
+{
+  "original_theme_count": 10,
+  "mapping_rules": {
+    "external_threat": {
+      "core_theme_name": "External Threat Intensity",
+      "source_themes": [
+        "Military Overextension",
+        "Barbarian Invasions"
+      ]
+    },
+    "internal_stability": {
+      "core_theme_name": "Internal Stability Level",
+      "source_themes": [
+        "Political Corruption",
+        "Crisis of Leadership"
+      ]
+    },
+    "economic_development": {
+      "core_theme_name": "Economic Development Level",
+      "source_themes": [
+        "Economic Decline"
+      ]
+    },
+    "socio_cultural_vitality": {
+      "core_theme_name": "Socio-Cultural Vitality",
+      "source_themes": [
+        "Social Decay",
+        "Decline of Civic Responsibility",
+        "Cultural Fragmentation"
+      ]
+    },
+    "religious_influence": {
+      "core_theme_name": "Religious Influence Level",
+      "source_themes": [
+        "Religious Transformation"
+      ]
+    },
+    "governance_efficiency": {
+      "core_theme_name": "Governance System Efficiency",
+      "source_themes": [
+        "Administrative Inefficiency"
+      ]
+    }
+  },
+  "mapped_themes": [
+    {
+      "id": "external_threat",
+      "name": "External Threat Intensity",
+      "description": "Severity of military pressure and barbarian invasions",
+      "rating_direction": "negative",
+      "source_themes": [
+        "Military Overextension",
+        "Barbarian Invasions"
+      ],
+      "combined_description": "Gibbon argues that the Roman Empire became 'too vast to be governed' effectively, leading to a strain on military resources and inability to defend its borders. He states that the 'barbarians' were 'invincible' and that their incursions contributed significantly to the empire's downfall."
+    },
+    {
+      "id": "internal_stability",
+      "name": "Internal Stability Level",
+      "description": "Political stability and leadership effectiveness",
+      "rating_direction": "negative",
+      "source_themes": [
+        "Political Corruption",
+        "Crisis of Leadership"
+      ],
+      "combined_description": "Gibbon notes that 'the spirit of liberty was extinguished' by the rise of corruption among officials, undermining the integrity of governance. He emphasizes that the 'frequent changes of emperors' created instability, with many leaders lacking the necessary qualities to govern effectively."
+    },
+    {
+      "id": "economic_development",
+      "name": "Economic Development Level",
+      "description": "Economic prosperity and fiscal health",
+      "rating_direction": "positive",
+      "source_themes": [
+        "Economic Decline"
+      ],
+      "combined_description": "He highlights that 'the public revenue was diminished' due to over-taxation and the devaluation of currency, leading to economic instability."
+    },
+    {
+      "id": "socio_cultural_vitality",
+      "name": "Socio-Cultural Vitality",
+      "description": "Social cohesion and cultural creativity",
+      "rating_direction": "positive",
+      "source_themes": [
+        "Social Decay",
+        "Decline of Civic Responsibility",
+        "Cultural Fragmentation"
+      ],
+      "combined_description": "Gibbon observes that 'the spirit of the people' declined as civic virtue waned, leading to a loss of social cohesion and responsibility. He notes that 'the decline of the Roman spirit' was marked by a lack of participation in civic duties, weakening the state. Gibbon notes that the empire experienced 'a loss of cultural unity,' with diverse populations leading to conflicting identities."
+    },
+    {
+      "id": "religious_influence",
+      "name": "Religious Influence Level",
+      "description": "Influence of religious belief transformations",
+      "rating_direction": "neutral",
+      "source_themes": [
+        "Religious Transformation"
+      ],
+      "combined_description": "Gibbon argues that the rise of Christianity 'changed the character of the empire,' leading to internal divisions and a shift in cultural values."
+    },
+    {
+      "id": "governance_efficiency",
+      "name": "Governance System Efficiency",
+      "description": "Administrative management and governance efficiency",
+      "rating_direction": "positive",
+      "source_themes": [
+        "Administrative Inefficiency"
+      ],
+      "combined_description": "Gibbon points out that 'the vastness of the empire' led to 'inefficient administration,' complicating governance."
+    }
+  ]
+}

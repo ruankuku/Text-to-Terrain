@@ -1,0 +1,68 @@
+{
+  "period_ratings": {
+    "period1": {
+      "external_threat": 6,
+      "internal_stability": 7,
+      "economic_development": 5,
+      "socio_cultural_vitality": 5,
+      "religious_influence": 4,
+      "governance_efficiency": 4
+    },
+    "period2": {
+      "external_threat": 8,
+      "internal_stability": 3,
+      "economic_development": 3,
+      "socio_cultural_vitality": 4,
+      "religious_influence": 4,
+      "governance_efficiency": 2
+    },
+    "period3": {
+      "external_threat": 5,
+      "internal_stability": 6,
+      "economic_development": 6,
+      "socio_cultural_vitality": 5,
+      "religious_influence": 4,
+      "governance_efficiency": 7
+    },
+    "period4": {
+      "external_threat": 5,
+      "internal_stability": 5,
+      "economic_development": 4,
+      "socio_cultural_vitality": 6,
+      "religious_influence": 7,
+      "governance_efficiency": 6
+    }
+  },
+  "theme_relationships": [
+    {
+      "theme_a": "external_threat",
+      "theme_b": "internal_stability",
+      "relationship": "negative",
+      "description": "Increased external threats lead to decreased internal stability as resources are diverted to defense and civil unrest grows."
+    },
+    {
+      "theme_a": "internal_stability",
+      "theme_b": "economic_development",
+      "relationship": "positive",
+      "description": "Higher internal stability fosters economic development as political order encourages trade and investment."
+    },
+    {
+      "theme_a": "economic_development",
+      "theme_b": "socio_cultural_vitality",
+      "relationship": "positive",
+      "description": "Economic prosperity enhances socio-cultural vitality by providing resources for cultural activities and social cohesion."
+    },
+    {
+      "theme_a": "governance_efficiency",
+      "theme_b": "internal_stability",
+      "relationship": "positive",
+      "description": "Improved governance efficiency contributes to internal stability by ensuring effective administration and reducing corruption."
+    },
+    {
+      "theme_a": "religious_influence",
+      "theme_b": "socio_cultural_vitality",
+      "relationship": "positive",
+      "description": "Strong religious influence can enhance socio-cultural vitality by fostering community bonds and shared values."
+    }
+  ]
+}

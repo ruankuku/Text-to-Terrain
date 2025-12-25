@@ -1,0 +1,510 @@
+{
+  "events": [
+    {
+      "year": 192,
+      "name": "Assassination of Commodus",
+      "primary_themes": [
+        "internal_stability",
+        "governance_efficiency"
+      ],
+      "base_impact": -8,
+      "geographic_scope": {
+        "scope_score": 7,
+        "regions": [
+          "Rome",
+          "Italy"
+        ],
+        "centrality": 0.95
+      },
+      "temporal_scope": {
+        "duration_score": 6,
+        "immediacy": 0.9,
+        "persistence": 0.7
+      },
+      "comprehensive_impact": -3.36,
+      "description": "Gibbon's description of the emperor's assassination and its effects on Roman governance.",
+      "cascade_effects": [
+        {
+          "affected_theme": "economic_development",
+          "impact_delay": 2,
+          "impact_strength": -5
+        }
+      ]
+    },
+    {
+      "year": 193,
+      "name": "Rise of Pertinax",
+      "primary_themes": [
+        "internal_stability",
+        "governance_efficiency"
+      ],
+      "base_impact": -5,
+      "geographic_scope": {
+        "scope_score": 6,
+        "regions": [
+          "Rome"
+        ],
+        "centrality": 0.9
+      },
+      "temporal_scope": {
+        "duration_score": 5,
+        "immediacy": 0.8,
+        "persistence": 0.6
+      },
+      "comprehensive_impact": -1.5,
+      "description": "Pertinax's brief attempt to restore order following Commodus's assassination.",
+      "cascade_effects": []
+    },
+    {
+      "year": 193,
+      "name": "Didius Julianus purchases the throne",
+      "primary_themes": [
+        "internal_stability",
+        "governance_efficiency"
+      ],
+      "base_impact": -7,
+      "geographic_scope": {
+        "scope_score": 7,
+        "regions": [
+          "Rome"
+        ],
+        "centrality": 0.95
+      },
+      "temporal_scope": {
+        "duration_score": 4,
+        "immediacy": 0.9,
+        "persistence": 0.5
+      },
+      "comprehensive_impact": -1.96,
+      "description": "Julianus's controversial acquisition of power through financial means.",
+      "cascade_effects": [
+        {
+          "affected_theme": "internal_stability",
+          "impact_delay": 1,
+          "impact_strength": -6
+        }
+      ]
+    },
+    {
+      "year": 197,
+      "name": "Rise of Septimius Severus",
+      "primary_themes": [
+        "internal_stability",
+        "governance_efficiency"
+      ],
+      "base_impact": -6,
+      "geographic_scope": {
+        "scope_score": 8,
+        "regions": [
+          "Rome",
+          "North Africa"
+        ],
+        "centrality": 0.85
+      },
+      "temporal_scope": {
+        "duration_score": 5,
+        "immediacy": 0.7,
+        "persistence": 0.6
+      },
+      "comprehensive_impact": -2.4,
+      "description": "Severus's rise marked by military despotism and restructuring of the guard.",
+      "cascade_effects": []
+    },
+    {
+      "year": 211,
+      "name": "Death of Septimius Severus",
+      "primary_themes": [
+        "internal_stability",
+        "governance_efficiency"
+      ],
+      "base_impact": -5,
+      "geographic_scope": {
+        "scope_score": 6,
+        "regions": [
+          "Rome"
+        ],
+        "centrality": 0.9
+      },
+      "temporal_scope": {
+        "duration_score": 5,
+        "immediacy": 0.8,
+        "persistence": 0.5
+      },
+      "comprehensive_impact": -1.5,
+      "description": "Severus's death led to a power struggle between his sons.",
+      "cascade_effects": []
+    },
+    {
+      "year": 217,
+      "name": "Assassination of Caracalla",
+      "primary_themes": [
+        "internal_stability",
+        "governance_efficiency"
+      ],
+      "base_impact": -7,
+      "geographic_scope": {
+        "scope_score": 6,
+        "regions": [
+          "Rome"
+        ],
+        "centrality": 0.9
+      },
+      "temporal_scope": {
+        "duration_score": 5,
+        "immediacy": 0.9,
+        "persistence": 0.6
+      },
+      "comprehensive_impact": -2.1,
+      "description": "Caracalla's assassination further destabilized the empire.",
+      "cascade_effects": []
+    },
+    {
+      "year": 218,
+      "name": "Rise of Elagabalus",
+      "primary_themes": [
+        "internal_stability",
+        "governance_efficiency"
+      ],
+      "base_impact": -6,
+      "geographic_scope": {
+        "scope_score": 5,
+        "regions": [
+          "Rome"
+        ],
+        "centrality": 0.85
+      },
+      "temporal_scope": {
+        "duration_score": 4,
+        "immediacy": 0.8,
+        "persistence": 0.5
+      },
+      "comprehensive_impact": -1.2,
+      "description": "Elagabalus's reign marked by excess and moral decay.",
+      "cascade_effects": []
+    },
+    {
+      "year": 222,
+      "name": "Assassination of Elagabalus",
+      "primary_themes": [
+        "internal_stability",
+        "governance_efficiency"
+      ],
+      "base_impact": -6,
+      "geographic_scope": {
+        "scope_score": 5,
+        "regions": [
+          "Rome"
+        ],
+        "centrality": 0.85
+      },
+      "temporal_scope": {
+        "duration_score": 4,
+        "immediacy": 0.9,
+        "persistence": 0.5
+      },
+      "comprehensive_impact": -1.2,
+      "description": "The assassination of Elagabalus further destabilized the empire.",
+      "cascade_effects": []
+    },
+    {
+      "year": 235,
+      "name": "Beginning of the Third Century Crisis",
+      "primary_themes": [
+        "internal_stability",
+        "external_threat"
+      ],
+      "base_impact": -9,
+      "geographic_scope": {
+        "scope_score": 8,
+        "regions": [
+          "Rome",
+          "Italy"
+        ],
+        "centrality": 0.9
+      },
+      "temporal_scope": {
+        "duration_score": 8,
+        "immediacy": 0.9,
+        "persistence": 0.8
+      },
+      "comprehensive_impact": -5.76,
+      "description": "The crisis marked by rapid succession of emperors and military challenges.",
+      "cascade_effects": []
+    },
+    {
+      "year": 238,
+      "name": "Gordian Rebellion",
+      "primary_themes": [
+        "internal_stability",
+        "governance_efficiency"
+      ],
+      "base_impact": -8,
+      "geographic_scope": {
+        "scope_score": 7,
+        "regions": [
+          "Rome",
+          "North Africa"
+        ],
+        "centrality": 0.9
+      },
+      "temporal_scope": {
+        "duration_score": 6,
+        "immediacy": 0.8,
+        "persistence": 0.6
+      },
+      "comprehensive_impact": -3.36,
+      "description": "The rebellion reflected the populace's desire for civil governance.",
+      "cascade_effects": []
+    },
+    {
+      "year": 251,
+      "name": "Decius's Persecution of Christians",
+      "primary_themes": [
+        "religious_influence",
+        "internal_stability"
+      ],
+      "base_impact": -7,
+      "geographic_scope": {
+        "scope_score": 6,
+        "regions": [
+          "Rome",
+          "Italy"
+        ],
+        "centrality": 0.85
+      },
+      "temporal_scope": {
+        "duration_score": 5,
+        "immediacy": 0.9,
+        "persistence": 0.5
+      },
+      "comprehensive_impact": -2.1,
+      "description": "Decius's persecution marked a significant religious conflict.",
+      "cascade_effects": []
+    },
+    {
+      "year": 260,
+      "name": "Capture of Valerian by the Persians",
+      "primary_themes": [
+        "external_threat",
+        "internal_stability"
+      ],
+      "base_impact": -9,
+      "geographic_scope": {
+        "scope_score": 8,
+        "regions": [
+          "Syria",
+          "Persia"
+        ],
+        "centrality": 0.9
+      },
+      "temporal_scope": {
+        "duration_score": 7,
+        "immediacy": 0.8,
+        "persistence": 0.6
+      },
+      "comprehensive_impact": -5.04,
+      "description": "Valerian's capture exemplified military failures and external threats.",
+      "cascade_effects": []
+    },
+    {
+      "year": 268,
+      "name": "Aurelian's Reforms",
+      "primary_themes": [
+        "governance_efficiency",
+        "internal_stability"
+      ],
+      "base_impact": 6,
+      "geographic_scope": {
+        "scope_score": 7,
+        "regions": [
+          "Rome",
+          "Italy"
+        ],
+        "centrality": 0.9
+      },
+      "temporal_scope": {
+        "duration_score": 6,
+        "immediacy": 0.8,
+        "persistence": 0.7
+      },
+      "comprehensive_impact": 2.52,
+      "description": "Aurelian's reforms aimed to stabilize the empire amidst crisis.",
+      "cascade_effects": []
+    },
+    {
+      "year": 284,
+      "name": "Diocletian becomes Emperor",
+      "primary_themes": [
+        "internal_stability",
+        "governance_efficiency"
+      ],
+      "base_impact": 8,
+      "geographic_scope": {
+        "scope_score": 8,
+        "regions": [
+          "Rome",
+          "Italy"
+        ],
+        "centrality": 0.95
+      },
+      "temporal_scope": {
+        "duration_score": 7,
+        "immediacy": 0.9,
+        "persistence": 0.8
+      },
+      "comprehensive_impact": 4.48,
+      "description": "Diocletian's rise marked a turning point in governance.",
+      "cascade_effects": []
+    },
+    {
+      "year": 286,
+      "name": "Establishment of the Tetrarchy",
+      "primary_themes": [
+        "governance_efficiency",
+        "internal_stability"
+      ],
+      "base_impact": 7,
+      "geographic_scope": {
+        "scope_score": 8,
+        "regions": [
+          "Rome",
+          "Italy"
+        ],
+        "centrality": 0.95
+      },
+      "temporal_scope": {
+        "duration_score": 6,
+        "immediacy": 0.8,
+        "persistence": 0.7
+      },
+      "comprehensive_impact": 3.36,
+      "description": "The Tetrarchy aimed to improve governance and stability.",
+      "cascade_effects": []
+    },
+    {
+      "year": 303,
+      "name": "Diocletian's Persecution of Christians",
+      "primary_themes": [
+        "religious_influence",
+        "internal_stability"
+      ],
+      "base_impact": -8,
+      "geographic_scope": {
+        "scope_score": 7,
+        "regions": [
+          "Rome",
+          "Italy"
+        ],
+        "centrality": 0.9
+      },
+      "temporal_scope": {
+        "duration_score": 5,
+        "immediacy": 0.9,
+        "persistence": 0.6
+      },
+      "comprehensive_impact": -2.8,
+      "description": "The persecution marked a significant religious conflict.",
+      "cascade_effects": []
+    },
+    {
+      "year": 312,
+      "name": "Battle of the Milvian Bridge",
+      "primary_themes": [
+        "military_success",
+        "internal_stability"
+      ],
+      "base_impact": 9,
+      "geographic_scope": {
+        "scope_score": 8,
+        "regions": [
+          "Rome",
+          "Italy"
+        ],
+        "centrality": 0.95
+      },
+      "temporal_scope": {
+        "duration_score": 7,
+        "immediacy": 0.9,
+        "persistence": 0.8
+      },
+      "comprehensive_impact": 5.04,
+      "description": "Constantine's victory marked a pivotal moment in his rise.",
+      "cascade_effects": []
+    },
+    {
+      "year": 324,
+      "name": "Constantine defeats Licinius",
+      "primary_themes": [
+        "military_success",
+        "internal_stability"
+      ],
+      "base_impact": 8,
+      "geographic_scope": {
+        "scope_score": 8,
+        "regions": [
+          "Rome",
+          "Italy"
+        ],
+        "centrality": 0.95
+      },
+      "temporal_scope": {
+        "duration_score": 6,
+        "immediacy": 0.9,
+        "persistence": 0.7
+      },
+      "comprehensive_impact": 3.84,
+      "description": "Constantine's victory consolidated his power over the empire.",
+      "cascade_effects": []
+    },
+    {
+      "year": 330,
+      "name": "Foundation of Constantinople",
+      "primary_themes": [
+        "governance_efficiency",
+        "socio_cultural_vitality"
+      ],
+      "base_impact": 10,
+      "geographic_scope": {
+        "scope_score": 9,
+        "regions": [
+          "Rome",
+          "Asia Minor"
+        ],
+        "centrality": 0.95
+      },
+      "temporal_scope": {
+        "duration_score": 8,
+        "immediacy": 0.9,
+        "persistence": 0.8
+      },
+      "comprehensive_impact": 7.2,
+      "description": "The establishment of Constantinople marked a new era for the empire.",
+      "cascade_effects": []
+    },
+    {
+      "year": 337,
+      "name": "Death of Constantine",
+      "primary_themes": [
+        "internal_stability",
+        "governance_efficiency"
+      ],
+      "base_impact": -7,
+      "geographic_scope": {
+        "scope_score": 8,
+        "regions": [
+          "Rome",
+          "Italy"
+        ],
+        "centrality": 0.9
+      },
+      "temporal_scope": {
+        "duration_score": 6,
+        "immediacy": 0.9,
+        "persistence": 0.6
+      },
+      "comprehensive_impact": -3.36,
+      "description": "Constantine's death led to a power struggle and instability.",
+      "cascade_effects": []
+    }
+  ]
+}
